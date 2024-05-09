@@ -2,6 +2,30 @@
 ---------------------------
 npm create vite@latest my-vue-app -- --template react
 
+# install tailwind in project
+---------------------------------
+https://tailwindcss.com/docs/guides/vite
+
+# know about tailwind 
+-----------------------
+https://tailwindcss.com/
+
+
+# know about daisy UI components 
+https://daisyui.com/components/
+
+# install daisy UI in project
+----------------------------------
+https://daisyui.com/docs/install/
+
+# for react icons 
+-----------------
+npm install react-icons --save
+
+# install chart
+---------------
+npm install recharts
+
 # react shortcut jsc file write :
 ------------------------------------
 1. Need to install React Extension Pack(Rajbir Jawanda) / Reactjs Code Snippets(\charalampos karypidis)
@@ -9,7 +33,7 @@ npm create vite@latest my-vue-app -- --template react
 
 # to disable prop-types from any components :
 -------------------------------------------
-1. .eslintrc.cjs >> rules >> type >> "react/prop-types":false  
+1. .eslintrc.cjs >> rules >>  "react/prop-types":false  
 
 1. function calling without paremeter through button -> 
 <button onclick={handlerCalling}> </button>
